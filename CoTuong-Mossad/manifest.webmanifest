@@ -1,0 +1,35 @@
+{
+"short_name": "Cờ tướng",
+"name": "Cờ tướng cho mọi người",
+"theme_color": "#ff0028",
+"background_color": "#ffd700",
+"display": "fullscreen",
+"icons": [
+    {
+    "src": "static/img/app-icons/icon-48-game.png",
+    "type": "image/png",
+    "sizes": "48x48"
+    },
+    {
+    "src": "static/img/app-icons/icon-96-game.png",
+    "type": "image/png",
+    "sizes": "96x96"
+    },
+    {
+    "src": "static/img/app-icons/icon-144-game.png",
+    "type": "image/png",
+    "sizes": "144x144"
+    },
+    {
+    "src": "static/img/app-icons/icon-192-game.png",
+    "type": "image/png",
+    "sizes": "192x192"
+    },
+    {
+    "src": "static/img/app-icons/icon-512-game.png",
+    "type": "image/png",
+    "sizes": "512x512"
+    }
+],
+"start_url": "/?utm_source=homescreen"
+}
